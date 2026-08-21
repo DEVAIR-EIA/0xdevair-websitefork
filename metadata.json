@@ -1,0 +1,8 @@
+{
+  "name": "DevAir Portfolio",
+  "description": "Portfolio and verifiable proof-of-work showcase for Smart Contract Developer & DeFAI Protocol Engineer DevAir (@0xdevair).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
